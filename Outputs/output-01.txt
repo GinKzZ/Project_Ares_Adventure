@@ -1,0 +1,21 @@
+BFS
+Steps: 10, Weight: 6, Node: 1003, Time (ms): 20.37, Memory (MB): 0.41
+rdLulDDRdL
+DFS
+Steps: 182, Weight: 48, Node: 1908, Time (ms): 24.87, Memory (MB): 0.3
+rrddlLrruullllddRRlluurrrrdddlUruullDllddrrrruuulDDrdLruullllddrRluRlluurrrrdddLLrruLLrruulllldddRRlUrrrdLruullulldRRllddrRlluurrurrdLrddLLrruulLdlluRRddLrrruuLrddllulluurrDrrddllluR
+UCS
+Steps: 10, Weight: 6, Node: 973, Time (ms): 15.7, Memory (MB): 0.31
+rdLLulDDrR
+A*
+Steps: 10, Weight: 6, Node: 234, Time (ms): 6.21, Memory (MB): 0.07
+rdLLulDDrR
+GBFS
+Steps: 24, Weight: 8, Node: 213, Time (ms): 3.96, Memory (MB): 0.02
+ldRurDDuullddRuurrdddLLL
+Swarm
+Steps: 10, Weight: 6, Node: 2087, Time (ms): 119.72, Memory (MB): 0.4
+rdLLulDDrR
+Dijkstra
+Steps: 10, Weight: 6, Node: 1878, Time (ms): 29.09, Memory (MB): 0.37
+rdLLulDDrR
